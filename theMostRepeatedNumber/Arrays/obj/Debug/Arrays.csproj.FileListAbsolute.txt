@@ -1,0 +1,7 @@
+C:\C# repo\theMostRepeatedNumber\Arrays\bin\Debug\Arrays.exe.config
+C:\C# repo\theMostRepeatedNumber\Arrays\bin\Debug\Arrays.exe
+C:\C# repo\theMostRepeatedNumber\Arrays\bin\Debug\Arrays.pdb
+C:\C# repo\theMostRepeatedNumber\Arrays\obj\Debug\Arrays.csprojAssemblyReference.cache
+C:\C# repo\theMostRepeatedNumber\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\C# repo\theMostRepeatedNumber\Arrays\obj\Debug\Arrays.exe
+C:\C# repo\theMostRepeatedNumber\Arrays\obj\Debug\Arrays.pdb
